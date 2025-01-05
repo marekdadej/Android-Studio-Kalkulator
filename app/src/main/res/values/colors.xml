@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#5B5E5F</color>
+    <color name="background_color">#FFFFFF</color> <!-- White background -->
+    <color name="button_color">#F5F5F5</color> <!-- Light grey buttons -->
+    <color name="text_color">#424242</color> <!-- Dark grey text -->
+    <color name="clear_button_color">#FF5252</color> <!-- Red for clear button -->
+    <color name="operator_color">#4CAF50</color> <!-- Green for operators like +, -, = -->
+</resources>
